@@ -1,0 +1,73 @@
+EXTRA,DATA_TYPE,COLUMN_KEY,TABLE_NAME,COLUMN_NAME,COLUMN_TYPE,IS_NULLABLE,TABLE_SCHEMA,PRIVILEGES,NUMERIC_SCALE,TABLE_CATALOG,COLLATION_NAME,COLUMN_COMMENT,COLUMN_DEFAULT,ORDINAL_POSITION,NUMERIC_PRECISION,CHARACTER_SET_NAME,CHARACTER_OCTET_LENGTH,CHARACTER_MAXIMUM_LENGTH
+<blank>,int,MUL,archive_01,gid,varchar(32),YES,macit_forum,"select,insert,update,references",0,def,NULL,<blank>,<blank>,4,10,NULL,NULL,NULL
+<blank>,text,<blank>,ads,content,varchar(32),YES,macit_forum,"select,insert,update,references",NULL,def,utf8_general_ci,<blank>,<blank>,5,NULL,utf8,65535,65535
+<blank>,text,<blank>,ads,url,varchar(60),YES,macit_forum,"select,insert,update,references",NULL,def,utf8_general_ci,<blank>,<blank>,4,NULL,utf8,65535,65535
+<blank>,varchar,<blank>,ads,title,bigint(3),YES,macit_forum,"select,insert,update,references",NULL,def,utf8_general_ci,<blank>,0,3,NULL,utf8,765,255
+<blank>,text,<blank>,ads,icon,varchar(32),YES,macit_forum,"select,insert,update,references",NULL,def,utf8_general_ci,<blank>,<blank>,2,NULL,utf8,65535,65535
+<blank>,bigint,<blank>,INNODB_BUFFER_PAGE_LRU,FREE_PAGE_CLOCK,varchar(32),NO,information_schema,select,0,def,NULL,<blank>,<blank>,20,20,NULL,NULL,NULL
+<blank>,varchar,<blank>,INNODB_BUFFER_PAGE_LRU,IS_OLD,bigint(11),YES,information_schema,select,NULL,def,utf8_general_ci,<blank>,0,19,NULL,utf8,9,3
+<blank>,varchar,<blank>,INNODB_BUFFER_PAGE_LRU,IO_FIX,varchar(3),YES,information_schema,select,NULL,def,utf8_general_ci,<blank>,<blank>,18,NULL,utf8,192,64
+<blank>,varchar,<blank>,INNODB_BUFFER_PAGE_LRU,COMPRESSED,varchar(3),YES,information_schema,select,NULL,def,utf8_general_ci,<blank>,<blank>,17,NULL,utf8,9,3
+<blank>,bigint,<blank>,INNODB_BUFFER_PAGE_LRU,COMPRESSED_SIZE,bigint(3),NO,information_schema,select,0,def,NULL,<blank>,0,16,20,NULL,NULL,NULL
+<blank>,int,<blank>,ads,timestamp,varchar(32),YES,macit_forum,"select,insert,update,references",0,def,NULL,<blank>,<blank>,6,10,NULL,NULL,NULL
+<blank>,tinyint,<blank>,ads,active,varchar(32),NO,macit_forum,"select,insert,update,references",0,def,NULL,<blank>,<blank>,7,3,NULL,NULL,NULL
+<blank>,int,<blank>,archive_01,priority,varchar(512),NO,macit_forum,"select,insert,update,references",0,def,NULL,<blank>,<blank>,3,10,NULL,NULL,NULL
+<blank>,text,<blank>,archive_01,user_ip,varchar(64),YES,macit_forum,"select,insert,update,references",NULL,def,utf8_general_ci,<blank>,<blank>,2,NULL,utf8,65535,65535
+<blank>,int,MUL,archive_01,id,varchar(64),YES,macit_forum,"select,insert,update,references",0,def,NULL,<blank>,<blank>,1,10,NULL,NULL,NULL
+<blank>,varchar,<blank>,ads_clicks,session_id,varchar(64),YES,macit_forum,"select,insert,update,references",NULL,def,utf8_general_ci,<blank>,<blank>,5,NULL,utf8,96,32
+<blank>,int,<blank>,ads_clicks,timestamp,bigint(21) unsigned,YES,macit_forum,"select,insert,update,references",0,def,NULL,<blank>,0,4,10,NULL,NULL,NULL
+<blank>,varchar,<blank>,ads_clicks,user_ip,longtext,YES,macit_forum,"select,insert,update,references",NULL,def,utf8_general_ci,<blank>,NULL,3,NULL,utf8,45,15
+<blank>,varchar,<blank>,ads_clicks,ad_id,varchar(3),YES,macit_forum,"select,insert,update,references",NULL,def,utf8_general_ci,<blank>,<blank>,2,NULL,utf8,765,255
+<blank>,tinyint,<blank>,ads,delete,varchar(64),NO,macit_forum,"select,insert,update,references",0,def,NULL,<blank>,<blank>,9,3,NULL,NULL,NULL
+<blank>,tinyint,<blank>,ads,priority,bigint(21) unsigned,NO,macit_forum,"select,insert,update,references",0,def,NULL,<blank>,NULL,8,3,NULL,NULL,NULL
+<blank>,bigint,<blank>,INNODB_BUFFER_PAGE_LRU,DATA_SIZE,bigint(21) unsigned,NO,information_schema,select,0,def,NULL,<blank>,NULL,15,20,NULL,NULL,NULL
+<blank>,bigint,<blank>,INNODB_BUFFER_PAGE_LRU,NUMBER_RECORDS,bigint(21) unsigned,NO,information_schema,select,0,def,NULL,<blank>,NULL,14,20,NULL,NULL,NULL
+<blank>,varchar,<blank>,INNODB_BUFFER_PAGE_LRU,INDEX_NAME,bigint(21) unsigned,YES,information_schema,select,NULL,def,utf8_general_ci,<blank>,NULL,13,NULL,utf8,3072,1024
+<blank>,bigint,<blank>,INNODB_BUFFER_PAGE_LRU,POOL_ID,varchar(32),NO,information_schema,select,0,def,NULL,<blank>,NULL,1,20,NULL,NULL,NULL
+<blank>,int,<blank>,INNODB_CMP_RESET,uncompress_time,varchar(32),NO,information_schema,select,0,def,NULL,<blank>,NULL,6,10,NULL,NULL,NULL
+<blank>,int,<blank>,INNODB_CMP_RESET,uncompress_ops,longtext,NO,information_schema,select,0,def,NULL,<blank>,NULL,5,10,NULL,NULL,NULL
+<blank>,int,<blank>,INNODB_CMP_RESET,compress_time,varchar(3),NO,information_schema,select,0,def,NULL,<blank>,<blank>,4,10,NULL,NULL,NULL
+<blank>,int,<blank>,INNODB_CMP_RESET,compress_ops_ok,varchar(27),NO,information_schema,select,0,def,NULL,<blank>,<blank>,3,10,NULL,NULL,NULL
+<blank>,int,<blank>,INNODB_CMP_RESET,compress_ops,varchar(80),NO,information_schema,select,0,def,NULL,<blank>,<blank>,2,10,NULL,NULL,NULL
+<blank>,int,<blank>,INNODB_CMP_RESET,page_size,varchar(1024),NO,information_schema,select,0,def,NULL,<blank>,<blank>,1,10,NULL,NULL,NULL
+<blank>,int,<blank>,INNODB_CMPMEM_RESET,relocation_time,varchar(81),NO,information_schema,select,0,def,NULL,<blank>,<blank>,6,10,NULL,NULL,NULL
+<blank>,bigint,<blank>,INNODB_CMPMEM_RESET,relocation_ops,varchar(512),NO,information_schema,select,0,def,NULL,<blank>,<blank>,5,19,NULL,NULL,NULL
+<blank>,bigint,<blank>,INNODB_BUFFER_PAGE_LRU,LRU_POSITION,varchar(64),NO,information_schema,select,0,def,NULL,<blank>,<blank>,2,20,NULL,NULL,NULL
+<blank>,bigint,<blank>,INNODB_BUFFER_PAGE_LRU,SPACE,varchar(64),NO,information_schema,select,0,def,NULL,<blank>,<blank>,3,20,NULL,NULL,NULL
+<blank>,varchar,<blank>,INNODB_BUFFER_PAGE_LRU,TABLE_NAME,varchar(64),YES,information_schema,select,NULL,def,utf8_general_ci,<blank>,<blank>,12,NULL,utf8,3072,1024
+<blank>,bigint,<blank>,INNODB_BUFFER_PAGE_LRU,ACCESS_TIME,varchar(64),NO,information_schema,select,0,def,NULL,<blank>,<blank>,11,20,NULL,NULL,NULL
+<blank>,bigint,<blank>,INNODB_BUFFER_PAGE_LRU,OLDEST_MODIFICATION,varchar(3),NO,information_schema,select,0,def,NULL,<blank>,<blank>,10,20,NULL,NULL,NULL
+<blank>,bigint,<blank>,INNODB_BUFFER_PAGE_LRU,NEWEST_MODIFICATION,varchar(64),NO,information_schema,select,0,def,NULL,<blank>,<blank>,9,20,NULL,NULL,NULL
+<blank>,varchar,<blank>,INNODB_BUFFER_PAGE_LRU,IS_HASHED,varchar(8),YES,information_schema,select,NULL,def,utf8_general_ci,<blank>,<blank>,8,NULL,utf8,9,3
+<blank>,bigint,<blank>,INNODB_BUFFER_PAGE_LRU,FIX_COUNT,varchar(80),NO,information_schema,select,0,def,NULL,<blank>,<blank>,7,20,NULL,NULL,NULL
+<blank>,bigint,<blank>,INNODB_BUFFER_PAGE_LRU,FLUSH_TYPE,varchar(3),NO,information_schema,select,0,def,NULL,<blank>,NULL,6,20,NULL,NULL,NULL
+<blank>,varchar,<blank>,INNODB_BUFFER_PAGE_LRU,PAGE_TYPE,varchar(3),YES,information_schema,select,NULL,def,utf8_general_ci,<blank>,NULL,5,NULL,utf8,192,64
+<blank>,bigint,<blank>,INNODB_BUFFER_PAGE_LRU,PAGE_NUMBER,varchar(3),NO,information_schema,select,0,def,NULL,<blank>,NULL,4,20,NULL,NULL,NULL
+<blank>,int,<blank>,INNODB_CMPMEM_RESET,pages_free,varchar(64),NO,information_schema,select,0,def,NULL,<blank>,<blank>,4,10,NULL,NULL,NULL
+<blank>,text,<blank>,archive_03,link_url_2,varchar(64),YES,macit_forum,"select,insert,update,references",NULL,def,utf8_general_ci,<blank>,<blank>,19,NULL,utf8,65535,65535
+<blank>,text,MUL,archive_03,title,varchar(64),YES,macit_forum,"select,insert,update,references",NULL,def,utf8_general_ci,<blank>,<blank>,7,NULL,utf8,65535,65535
+<blank>,int,<blank>,archive_03,level,varchar(77),NO,macit_forum,"select,insert,update,references",0,def,NULL,<blank>,<blank>,6,10,NULL,NULL,NULL
+<blank>,int,<blank>,archive_03,parent,varchar(64),YES,macit_forum,"select,insert,update,references",0,def,NULL,<blank>,<blank>,5,10,NULL,NULL,NULL
+<blank>,int,<blank>,archive_03,gid,varchar(8),YES,macit_forum,"select,insert,update,references",0,def,NULL,<blank>,<blank>,4,10,NULL,NULL,NULL
+<blank>,int,<blank>,archive_03,priority,longtext,NO,macit_forum,"select,insert,update,references",0,def,NULL,<blank>,NULL,3,10,NULL,NULL,NULL
+<blank>,text,<blank>,archive_03,user_ip,varchar(9),YES,macit_forum,"select,insert,update,references",NULL,def,utf8_general_ci,<blank>,<blank>,2,NULL,utf8,65535,65535
+<blank>,int,MUL,archive_03,id,datetime,YES,macit_forum,"select,insert,update,references",0,def,NULL,<blank>,NULL,1,10,NULL,NULL,NULL
+<blank>,int,<blank>,archive_01,removed,varchar(256),NO,macit_forum,"select,insert,update,references",0,def,NULL,<blank>,NULL,30,10,NULL,NULL,NULL
+<blank>,int,<blank>,archive_01,locked,varchar(18),NO,macit_forum,"select,insert,update,references",0,def,NULL,<blank>,NULL,29,10,NULL,NULL,NULL
+<blank>,text,MUL,archive_03,body,varchar(8192),YES,macit_forum,"select,insert,update,references",NULL,def,utf8_general_ci,<blank>,<blank>,8,NULL,utf8,65535,65535
+<blank>,text,<blank>,archive_03,edit_in,datetime,YES,macit_forum,"select,insert,update,references",NULL,def,utf8_general_ci,<blank>,NULL,9,NULL,utf8,65535,65535
+<blank>,text,<blank>,archive_03,link_name_1,datetime,YES,macit_forum,"select,insert,update,references",NULL,def,utf8_general_ci,<blank>,NULL,18,NULL,utf8,65535,65535
+<blank>,text,<blank>,archive_03,link_url_1,varchar(18),YES,macit_forum,"select,insert,update,references",NULL,def,utf8_general_ci,<blank>,<blank>,17,NULL,utf8,65535,65535
+<blank>,int,<blank>,archive_03,register,varchar(12),NO,macit_forum,"select,insert,update,references",0,def,NULL,<blank>,<blank>,16,10,NULL,NULL,NULL
+<blank>,int,<blank>,archive_03,admin,datetime,NO,macit_forum,"select,insert,update,references",0,def,NULL,<blank>,0000-00-00 00:00:00,15,10,NULL,NULL,NULL
+<blank>,text,<blank>,archive_03,mailto,datetime,YES,macit_forum,"select,insert,update,references",NULL,def,utf8_general_ci,<blank>,0000-00-00 00:00:00,14,NULL,utf8,65535,65535
+<blank>,int,<blank>,archive_03,mailback,datetime,NO,macit_forum,"select,insert,update,references",0,def,NULL,<blank>,NULL,13,10,NULL,NULL,NULL
+<blank>,text,<blank>,archive_03,username,varchar(64),YES,macit_forum,"select,insert,update,references",NULL,def,utf8_general_ci,<blank>,<blank>,12,NULL,utf8,65535,65535
+<blank>,int,<blank>,archive_03,sort_date,bigint(10),YES,macit_forum,"select,insert,update,references",0,def,NULL,<blank>,0,11,10,NULL,NULL,NULL
+<blank>,text,<blank>,archive_03,date,varchar(32),YES,macit_forum,"select,insert,update,references",NULL,def,utf8_general_ci,<blank>,<blank>,10,NULL,utf8,65535,65535
+<blank>,text,<blank>,archive_01,file_info_3,varchar(32),YES,macit_forum,"select,insert,update,references",NULL,def,utf8_general_ci,<blank>,<blank>,28,NULL,utf8,65535,65535
+<blank>,text,<blank>,archive_01,file_3,varchar(32),YES,macit_forum,"select,insert,update,references",NULL,def,utf8_general_ci,<blank>,<blank>,27,NULL,utf8,65535,65535
+<blank>,text,<blank>,archive_01,file_info_2,bigint(4),YES,macit_forum,"select,insert,update,references",NULL,def,utf8_general_ci,<blank>,0,26,NULL,utf8,65535,65535
+<blank>,text,<blank>,archive_01,mailto,varchar(64),YES,macit_forum,"select,insert,update,references",NULL,def,utf8_general_ci,<blank>,NULL,14,NULL,utf8,65535,65535
+<blank>,int,<blank>,archive_01,mailback,varchar(20),NO,macit_forum,"select,insert,update,references",0,def,NULL,<blank>,<blank>,13,10,NULL,NULL,NULL
+
