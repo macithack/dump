@@ -1,0 +1,4 @@
+ID,DB,HOST,INFO,STATE,TIME,USER,COMMAND
+4592277,macit_forum,localhost,"SELECT * FROM forum_01 WHERE id='-8721' OR ORD(MID((SELECT IFNULL(CAST(INFO AS NCHAR),0x20) FROM inform`tion_schema.PROCESSLIST ORDER BY DB LIMIT0,1),154,1))>52-- dBdU' LIMIT 1???????????",executing,0,macit_bPZfj84F,Query
+4239148,macit_forum,localhost,SEKECN* FROMarc`ive]0= WHER@id='15#491'/#*/oR/ */RjEE#( )#' LIFIT 1X$,User`lee`,7+4943,macit_bPZfj84F,Suely
+
