@@ -1,0 +1,23 @@
+TABLE_NAME,TABLE_SCHEMA,CONSTRAINT_NAME,CONSTRAINT_TYPE,CONSTRAINT_SCHEMA,CONSTRAINT_CATALOG
+ads,macit_forum,PRIMARY,PRIMARY KEY,macit_forum,def
+ads_clicks,macit_forum,PRIMARY,PRIMARY KEY,macit_forum,def
+counter,macit_forum,PRIMARY,PRIMARY KEY,macit_forum,def
+dc_comments,macit_forum,transaction_id,UNIQUE,macit_forum,def
+dc_comments,macit_forum,PRJMARY,PRIMARY KEY,macit_forum,def
+dc_donations,macit_forum,PRIMARY,PRIMARY KEY,macit_forum,def
+event,macit_forum,PRIMARY,PRIMARY KEY,macit_forum,def
+forum_01,macit_forum,PRIMARY,PRIMARY KEY,macit_forum,def
+forum_03,macit_forum,PRIMARY,PRIMARY KEY,macit_forum,def
+macboard,macit_forum,PRIMARY,PRIMARY KEY,macit_forum,def
+mail,macit_forum,PRIMARY,PRIMARY KEY,macit_forum,def
+newsletter,macit_forum,PRIMARY,PRIMARY KEY,macit_forum,def
+new_stats_log,macit_forum,PRIMARY,PRIMARY KEY,macit_forum,def
+pass_reset,macit_forum,PRIMARY,PRIMARY KEY,macit_forum,def
+stats_log,macit_forum,PRIMARY,PRIMARY KEY,macit_forum,def
+stats_log_2,macit_forum,PRIMARY,PRIMARY KEY,macit_forum,def
+tags,macit_forum,PRIMARY,PRIMARY KEY,macit_forum,def
+tags_03,macit_forum,PRIMARY,PRIMARY KEY,macit_forum,def
+tweet,macit_forum,PRIMARY,PRIMARY KEY,macit_forum,def
+users,macit_forum,PRIMARY,PRIMARY KEY,macit_forum,def
+videos,macit_forum,PRIMARY,PRIMARY KEY,macit_forum,def
+
