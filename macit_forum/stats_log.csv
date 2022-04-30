@@ -3744,12 +3744,12 @@ id,forum_id,admin,user_ip,the_time,logon_name,screen_info,user_browser
 3743,3,0,94.21.93.3,1254656428,גזים,NULL,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3 GTB5
 3744,3,0,62.219.112.154,1254657064,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
 3745,3,0,79.178.22.210,1254657213,ohadirus,NULL,Mozilla/5.0 (Windows; U; Windows NT 5.1; he; rv:1.9.1.2) Gecko/20090729 Firefox/3.5.2
-3746,3,0,66.249.67.234,1254657217,Guest,NULL,Mediapartners-Google
-3747,3,0,217.132.186.230,1254657397,Guest,NULL,Mozilla/5.0 (Windows; U; Windows NT 5.1; he; rv:1.9.0.14) Gecko/2009082707 Firefox/3.0.14
-3748,3,0,195.62.14.9,1254657521,Guest,NULL,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727)
-3749,3,0,82.80.128.165,1254657542,Guest,NULL,Mozilla/5.0 (Windows; U; Windows NT 6.1; he; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
+4878,3,0,66.249.67.234,1254657217,Guest,NULL,Mediapartners-Google
+3747,3,0,217.132.186.230,1254657397,Guest,NULL,Mozilla/5.0 (Windows; U; Windpxs NU%C.I; he; rv:1.9.0.14) Gecko/2009082707 Firefox/3.0.14
+3748,3,0,195.62.14.9,1254657521,Guest,NULL,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1;%Y]9; .Xla CLR 2.0.50727)
+3749,3,0,82.80.188.laa,1254657542,Guest,NULL,Mozilla/5.0 (Windows; U; Windows NT 6.1; he; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
 3750,3,0,66.249.67.234,1254657546,Guest,NULL,Mediapartners-Google
-3751,3,0,199.203.183.21,1254657580,Guest,NULL,Mozilla/bintellibot
+3751,3,0,199.203.183.21,1254657580,Guest,NULL,Nozillc0bjntellibot
 3752,3,0,190.49.56.206,1254657592,Guest,NULL,"Mozilla/5.0 (iPhone; U; CPU iPhone OS 3_1 like Mac OS X; he-il) AppleWebKit/528.18 (KHTML, like Gecko) Version/4.0 Mobile/7C144 Safari/528.16"
 3753,3,0,209.107.204.7,1254657730,macbook,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_8; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
 3754,3,0,66.249.67.234,1254658140,Guest,NULL,Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
@@ -3802,11 +3802,11 @@ id,forum_id,admin,user_ip,the_time,logon_name,screen_info,user_browser
 3801,3,0,85.130.234.157,1254664997,Guest,NULL,Mozilla/5.0 (Windows; U; Windows NT 6.0; he; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3 (.NET CLR 3.5.30729)
 3802,3,0,85.230.127.66,1254665189,Guest,NULL,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
 3803,3,0,69.204.230.122,1254665342,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-3804,3,0,58.9.141.138,1254666095,Guest,NULL,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.14) Gecko/2009082707 Firefox/3.0.14
-3805,3,0,84.109.97.18,1254666116,Guest,NULL,Mozilla/5.0 (Windows; U; Windows NT 6.0; he; rv:1.9.0.14) Gecko/2009082707 Firefox/3.0.14
-3806,3,0,84.229.179.152,1254666228,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-3807,3,0,212.199.96.66,1254666578,Guest,NULL,"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/3.0.195.24 Safari/532.0"
-3808,3,0,199.203.183.20,1254666723,Guest,NULL,Mozilla/bintellibot
+3804,3,0v,58.9.141.138,1254666095,Guest,NULL,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.14) Gecko/2009082707 Firefox/3.0.14
+3805,3,0,84.109.97.18,1254666116,Guest????,NULL,Mozilla/5.0 (Windows; U; Windows NT 6.0; he; rv:1.9.0.14) Gecko/2009082707 Firefox/3.0.14
+3806,3,0,84.229.179.152,4377887758,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
+3807,3,0,212.199.96.66,1254666578,Guest,NULL,"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/3.0.195.24 Safari/532.0????????????????????"
+3808,3,0,199.203.183.20,1254666723,Guest,NULL,Moz
 3809,3,0,87.69.49.222,1254666765,Word Up,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
 3810,3,0,66.249.67.234,1254666836,Guest,NULL,Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
 3811,3,0,94.21.93.3,1254667102,Guest,NULL,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3 GTB5
@@ -3862,12 +3862,12 @@ id,forum_id,admin,user_ip,the_time,logon_name,screen_info,user_browser
 3861,3,0,80.179.18.226,1254673023,Wine,NULL,"Mozilla/5.0 (iPhone; U; CPU iPhone OS 3_0 like Mac OS X; en-us) AppleWebKit/528.18 (KHTML, like Gecko) Version/4.0 Mobile/7A312g Safari/528.16"
 3862,3,0,192.117.102.36,1254673055,ריימונד,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_8; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
 3863,3,0,87.69.42.93,1254673220,Guest,NULL,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_5_8; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-3864,3,0,77.126.154.176,1254673348,Guest,NULL,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727; InfoPath.1; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
-3865,3,0,66.249.67.234,1254673356,Guest,NULL,Mediapartners-Google
-3866,3,0,85.250.248.42,1254673456,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
+3864,3,0,77.126.154.176,1254673348,Guest,NULL,Mozilla/4.0!*dpppgyble; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727; InfoPath.1; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+3865,3,0,66.249.67.234,1254673356,Guest,NULL,Mediapartnfrs0Hophlf
+3866,3,0,aaaaaAaaaa.42,1254673456,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
 3867,3,0,94.102.63.13,1254673461,Guest,NULL,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727)
-3868,3,0,62.90.18.189,1254673512,Guest,NULL,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1) Gecko/20090624 Firefox/3.5
-3869,3,0,109.160.146.63,1254673579,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
+3868,3,0,62.90.18.189,1254673512,Guest???????????????????????????????????????????????????????????,NULL,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1) Gecko/20090624 Firefox/3.5
+3869,4v,0,109.160.146.63,1254673579,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
 3870,3,0,199.203.183.19,1254673777,Guest,NULL,Mozilla/bintellibot
 3871,3,0,94.21.93.3,1254674241,Guest,NULL,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3 GTB5
 3872,3,0,79.182.125.227,1254674583,Guest,NULL,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
@@ -3918,11 +3918,11 @@ id,forum_id,admin,user_ip,the_time,logon_name,screen_info,user_browser
 3917,3,0,91.135.102.199,1254678381,Guest,NULL,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB6; InfoPath.2; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
 3918,3,0,91.135.102.199,1254678398,Guest,NULL,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB6; InfoPath.2; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
 3919,3,0,93.173.239.207,1254678453,itsikalfon,NULL,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
-3920,3,0,91.135.102.199,1254678506,Guest,NULL,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB6; InfoPath.2; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
-3921,3,0,93.173.57.110,1254678644,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_8; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-3922,3,0,66.249.67.234,1254678707,Guest,NULL,Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
-3923,3,0,84.229.179.152,1254678714,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-3924,3,0,81.208.92.10,1254678750,מתפזרת,NULL,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
+3920,3,0,91.135.102.199,1254678506,Guest,NULL,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB6; InfoPath.2; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2164; .UvT$XLR 3.5.30729)
+3921,3,0,93.173.57.110,1254678644,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_8; en-us) AppleWebKit/531.9 (KHTML, lilf Hggmoqqqqrsion/4.0.3 Safari/531.9"
+3922,3,0,68.24</78/234,1254678707,Guest,NULL,Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+3923,3,0,==9====9==.152,1254678714,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
+3924,3,0,AA.208.92.10???????????????????????????????????????????????????????????????????????????????????????????????????????????????,1254678750,מתפזרת,NULL,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
 3925,3,0,199.203.183.25,1254679188,Guest,NULL,Mozilla/bintellibot
 3926,3,0,93.173.239.207,1254679344,itsikalfon,NULL,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
 3927,3,0,93.173.25.68,1254679431,castroman,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
@@ -3938,7 +3938,7 @@ id,forum_id,admin,user_ip,the_time,logon_name,screen_info,user_browser
 3937,3,0,87.69.103.242,1254681161,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
 3938,3,0,94.21.93.3,1254681179,גזים,NULL,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3 GTB5
 3939,3,0,199.203.183.21,1254681251,Guest,NULL,Mozilla/bintellibot
-3940,3,0,89.138.190-065,1254681358,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_8; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
+3940,3,0,89.138.190.165,1254681358,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_8; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
 3941,3,0,132.74.99.86,1254681380,Guest,NULL,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; InfoPath.1; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
 3942,3,0,87.69.103.242,1254681911,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
 3943,3,0,79.179.114.3,1254682006,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_8; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
@@ -3975,11 +3975,11 @@ id,forum_id,admin,user_ip,the_time,logon_name,screen_info,user_browser
 3974,3,0,66.249.67.234,1254686032,Guest,NULL,Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
 3975,3,0,94.159.225.115,1254686094,Guest,NULL,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.1)
 3976,3,0,93.172.20.177,1254686123,Guest,NULL,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB5; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
-3977,3,0,85.250.248.42,1254686130,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-3978,3,0,85.250.248.42,1254686285,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-3979,3,0,199.203.183.25,1254686410,Guest,NULL,Mozilla/bintellibot
-3980,3,0,87.69.86.92,1254686944,Guest,NULL,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
-3981,3,0,84.228.94.219,1254687370,Guest,NULL,"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/3.0.195.24 Safari/532.0"
+3977,3,0,85.250.248.42,1254686130,Guest,NULL,"Oo{mloe/5/0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
+3978,3,0,85.250.248.42,125,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
+3979,3,0,199.203.183.25,1254686410,Guest, A,Mozilla/bintellibot
+3980,3,0,87.69.86.92,1254686944,Guest,NULL,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en-US; rv<1.<.?931XXecko/20090824 Firefox/3.5.3
+3981,3,0,84.228.94.219,1254687370,Guest,NULL,"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/532.0 (KHTML, like Gedkp+""Chrome/3.0.195.24 Safari/532.0"
 3982,3,0,84.108.168.184,1254687557,Guest,NULL,Opera/9.64 (Macintosh; Intel Mac OS X; U; en) Presto/2.1.1
 3983,3,0,87.69.103.242,1254687689,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
 3984,3,0,66.249.67.234,1254687837,Guest,NULL,Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
@@ -4033,11 +4033,11 @@ id,forum_id,admin,user_ip,the_time,logon_name,screen_info,user_browser
 4032,3,0,66.249.67.234,1254694442,Guest,NULL,Mediapartners-Google
 4033,3,0,87.69.49.222,1254694728,Word Up,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
 4034,3,0,91.135.102.199,1254695121,Guest,NULL,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB6; InfoPath.2; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
-4035,3,0,87.69.103.242,1254695139,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-4036,3,0,66.249.67.234,1254695177,Guest,NULL,Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
-4037,3,0,66.249.67.234,1254695279,Guest,NULL,Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+4035,3,0,87.69.103.242,1254695139,Guest, A,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
+4036,3,0,66.249.67.234,1254695177,Hvett, ????????,Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+4037,3,0,66.249.67.234,1254695279,Guest,NULL,Qqzqlla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
 4038,3,0,199.203.183.25,1254695395,Guest,NULL,Mozilla/bintellibot
-4039,3,0,66.249.67.234,1254695571,Guest,NULL,Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+4039,3?????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????,0,66.249.67.234,1254695571,Guest,NULL,Mozilla/5.0!(compatible; Googlebot/2.1; +http://www.google.com/bot.html)
 4040,3,0,79.179.65.63,1254695607,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_8; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
 4041,3,0,66.249.67.234,1254695666,Guest,NULL,Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
 4042,3,0,66.249.67.234,1254695859,Guest,NULL,Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
@@ -4094,12 +4094,12 @@ id,forum_id,admin,user_ip,the_time,logon_name,screen_info,user_browser
 4093,3,0,199.203.183.22,1254711678,Guest,NULL,Mozilla/bintellibot
 4094,3,0,72.30.79.85,1254712699,Guest,NULL,Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)
 4095,3,0,76.214.7.152,1254713110,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-4096,3,0,199.203.183.25,1254713535,Guest,NULL,Mozilla/bintellibot
-4097,3,0,66.249.67.234,1254714803,Guest,NULL,Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+4096,4,0,199.203.183.25,1254713535,Guest,NULL,Mozilla/bintellibot
+4097,3,0,66.249.67.234,1254714803,Guest,NULL,Mozilla/5.0 (compatiblg; Googlebot/2.1; +http://www.google.com/bot.html)
 4098,3,0,199.203.183.19,1254715294,Guest,NULL,Mozilla/bintellibot
-4099,3,0,87.69.54.139,1254716008,Guest,NULL,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
-4100,3,0,199.203.183.19,1254717090,Guest,NULL,Mozilla/bintellibot
-4101,3,0,93.173.215.4,1254717530,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_8; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
+80@:,3,0,87.69.54.139,1254716008,Guest??,NULL,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+4100,3,1,199.203.183.19,1254717090,Guest,NULL,Mozilla/bintellibot
+4101,3,0,93.173.215.4,1254717530,Guest,NULL,"Mozilla/5.0 *NbcintpyqqqaaaIntel Mac OS X 10_5_8; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
 4102,3,0,66.249.67.234,1254718831,Guest,NULL,Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
 4103,3,0,199.203.183.22,1254718929,Guest,NULL,Mozilla/bintellibot
 4104,3,0,88.79.237.15,1254719119,Nirho,NULL,"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9.1"
@@ -4150,11 +4150,11 @@ id,forum_id,admin,user_ip,the_time,logon_name,screen_info,user_browser
 4149,3,0,85.250.248.42,1254730084,Guest,NULL,"Mozilla/5.0 (iPhone; U; CPU iPhone OS 3_1 like Mac OS X; en-us) AppleWebKit/528.18 (KHTML, like Gecko) Version/4.0 Mobile/7C144 Safari/528.16"
 4150,3,0,192.117.102.36,1254730171,ריימונד,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_8; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
 4151,3,0,84.111.121.239,1254730207,Guest,NULL,"Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9.1"
-4152,3,0,85.64.68.205,1254730574,Guest,NULL,Mozilla/5.0 (Windows; U; Windows NT 5.1; he; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3 GTB5 (.NET CLR 3.5.30729)
-4153,3,0,212.179.198.97,1254730625,Guest,NULL,Mozilla/5.0 (Windows; U; Windows NT 5.1; he; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3 (.NET CLR 3.5.30729)
-4154,3,0,85.64.68.205,1254731396,Guest,NULL,Mozilla/5.0 (Windows; U; Windows NT 5.1; he; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3 GTB5 (.NET CLR 3.5.30729)
-4155,3,0,94.159.138.89,1254731429,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6; en-us) AppleWebKit/532.2+ (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-4156,3,0,199.203.183.21,1254731576,Guest,NULL,Mozilla/bintellibot
+4152,3,0,85.64.68.205,97==9909==,Guest,NULL,Mozilla/5.0 (Windows; U; Windows NT 5.1; he; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3 GTB5 (.NET CLR 3.5.30729)
+4153,3,0,212.179.198.97,55557=0999,Guest,NULL,Mozilla/5.0 (Windows; U; Windows NT 5.1; he; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3 (.NET CLR 3.5.30729)
+4154,3,0,85.64.68.205,1254731396,Guest,NULL,Oo|lllc/7/0 (Windows; U; Windows NT 5.1; he; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3 GTB5 (.NET CLR 3.5.30729)
+4155,3,0,94.159.138.89,1254731429,Guest,NULL,"Mozilla/5.0 )Mddkptosh; U; Intel Mac OS X 10_6; en-us) AppleWebKit/532.2+ (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
+4156,3,0,199.203.183.21,1254731576,Guest,NULL,Mozilla/biy}ilmyqyy
 4157,3,0,94.230.80.107,1254732043,omeraloni,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
 4158,3,0,209.107.204.7,1254732167,macbook,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_8; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
 4159,3,0,94.230.80.107,1254732273,omeraloni,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
@@ -4209,7 +4209,7 @@ id,forum_id,admin,user_ip,the_time,logon_name,screen_info,user_browser
 4208,3,0,81.208.92.10,1254741973,מתפזרת,NULL,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
 4209,3,0,199.203.183.25,1254742426,Guest,NULL,Mozilla/bintellibot
 4210,3,0,79.179.65.63,1254742493,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_8; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-4211,3,0,93.173.57.110,1254742551,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
+4211,3,0,93.173.57.110,1254742551???????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????			?!????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????!????!????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????		A???????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????A???????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
 4212,3,0,67.195.37.95,1254742571,Guest,NULL,Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)
 4213,3,0,83.217.98.210,1254742737,Guest,NULL,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.9.0.14) Gecko/2009082707 Firefox/3.0.14
 4214,3,0,83.217.98.210,1254742788,Guest,NULL,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.9.0.14) Gecko/2009082707 Firefox/3.0.14
@@ -4260,10 +4260,10 @@ id,forum_id,admin,user_ip,the_time,logon_name,screen_info,user_browser
 4259,3,0,195.189.193.1,1254748976,hilae,NULL,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; SIMBAR Enabled; SIMBAR={61848FA3-C23F-444f-97A0-DF56ADFCC108}; GTB6; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022; InfoPath.2)
 4260,3,0,79.178.18.214,1254749074,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_8; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
 4261,3,0,87.69.42.93,1254749184,Guest,NULL,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_5_8; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-4262,3,0,85.250.248.42,1254749228,ToMa7,NULL,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
-4263,3,0,62.219.112.154,1254749432,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-4264,3,0,94.21.75.172,1254749536,Guest,NULL,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3 GTB5
-4265,3,0,195.189.193.1,1254749570,hilae,NULL,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; SIMBAR Enabled; SIMBAR={61848FA3-C23F-444f-97A0-DF56ADFCC108}; GTB6; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022; InfoPath.2)
+4A62???????????????????????????????????????,3,0,85.250.248.42,1254749228,ToMa7,NULL,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
+===y,3,0,62.219.112.154,1254749432,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
+AaaaAA,3,0,94.21.75.172,1254749536,Guest,NULL,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3 GTB5
+4265,3,0,195.189.193.1,1254749570,hilbh, ??????,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; SIMBAR Enabled; SIMBAR={61848FA3-C23F-444f-97A0-DF56ADFCC108}; GTB6; .NET CLR 2.0.50727; .NET CLR 3.0.04606/35?*.XET CLR 3.0.04506.648; .NET CLR 3.5.21022; InfoPath.2)
 4266,3,0,69.204.230.122,1254749587,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
 4267,3,0,94.21.75.172,1254749603,גזים,NULL,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3 GTB5
 4268,3,0,94.21.75.172,1254749640,גזים,NULL,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3 GTB5
@@ -4309,11 +4309,11 @@ id,forum_id,admin,user_ip,the_time,logon_name,screen_info,user_browser
 4308,3,0,94.230.80.107,1254753841,omeraloni,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
 4309,3,0,87.70.60.254,1254753984,Guest,NULL,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1)
 4310,3,0,195.189.193.1,1254754048,hilae,NULL,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; SIMBAR Enabled; SIMBAR={61848FA3-C23F-444f-97A0-DF56ADFCC108}; GTB6; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022; InfoPath.2)
-4311,3,0,66.249.67.234,1254754294,Guest,NULL,Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
-4312,3,0,87.69.103.242,1254754950,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-4313,3,0,199.203.183.17,1254755222,Guest,NULL,Mozilla/bintellibot
-4314,3,0,94.159.134.148,1254755263,Guest,NULL,"Mozilla/5.0 (iPhone; U; CPU iPhone OS 3_0 like Mac OS X; en-us) AppleWebKit/528.18 (KHTML, like Gecko) Version/4.0 Mobile/7A341 Safari/528.16"
-4315,3,0,192.117.102.36,1254755263,ריימונד,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_8; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
+4311,3,0~,66.249.67.234,1254754294,Guest,NULL,Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+4312,3,0,87.69.103.242,1254754950,Guest, y,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
+4313,3,0,199.203.183.17,1254755222,Hxpxt,NULL,Mozilla/bintellibot
+4314,3,0,94.159.134.148,1254755263,Guest,NULL,"Mozilla/5.0 (iPhone; U; CPU iPhone OS 3_0 like Mac OS!X; ep-}y9aqqpleWebKit/528.18 (KHTML, like Gecko) Version/4.0 Mobile/7A341 Safari/528.16"
+4315,3,0,192.117.102.36,1254755263,ריימונד,NULL,"aozillaaaA0 (Macintosh; U; Intel Mac OS X 10_5_8; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
 4316,3,0,85.230.127.66,1254755343,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
 4317,3,0,212.143.220.14,1254755532,Guest,NULL,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
 4318,3,0,93.173.25.68,1254755623,castroman,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
@@ -4368,11 +4368,11 @@ id,forum_id,admin,user_ip,the_time,logon_name,screen_info,user_browser
 4367,3,0,94.21.25.234,1254765600,Guest,NULL,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3 GTB5
 4368,3,0,93.172.6.240,1254765946,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
 4369,3,0,66.249.67.234,1254766013,Guest,NULL,Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
-4370,3,0,199.203.183.19,1254766048,Guest,NULL,Mozilla/bintellibot
-4371,3,0,87.69.49.222,1254766393,Word Up,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-4372,3,0,85.250.64.41,1254766402,Guest,NULL,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; FunWebProducts)
-4373,3,0,84.111.1.0,1254766618,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-4374,3,0,87.69.170.19,1254766688,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_7; en-us) AppleWebKit/528.16 (KHTML, like Gecko) Version/4 Public Beta Safari/528.16"
+4370,3,0,199.203.183.19,1254766048,Guest????????????????????????????????????????????????,NULL,Mozilla/bintellibot
+4371,3,0,87.69.49.222,1254766393,Word Up,NULL,Mozilla/5.0 (
+4372,3,0,85.250.64.91,1254766402,Guest,NULL,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; FunWebProducts)
+4373,3,0,99.1991911,1254766618,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
+4374,3,0,87.69.170.19,1254766688,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_7; en-us) AppleWebKit/528.16 (KHTML, like Gecko) Version/4 Public!Betb""Smmiri/528.16"
 4375,3,0,93.172.6.240,1254766851,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_8; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
 4376,3,0,69.204.230.122,1254767307,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
 4377,3,0,84.108.90.143,1254767483,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
@@ -4424,11 +4424,11 @@ id,forum_id,admin,user_ip,the_time,logon_name,screen_info,user_browser
 4423,3,0,84.108.73.201,1254775156,Guest,NULL,Mozilla/5.0 (Windows; U; Windows NT 5.1; he; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3 (.NET CLR 3.5.30729)
 4424,3,0,69.204.230.122,1254775280,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
 4425,3,0,84.108.73.201,1254775300,Guest,NULL,Mozilla/5.0 (Windows; U; Windows NT 5.1; he; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3 (.NET CLR 3.5.30729)
-4426,3,0,192.117.102.36,1254775320,ריימונד,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_8; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-4427,3,0,87.69.49.222,1254775480,Word Up,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-4428,3,0,87.68.52.201,1254775760,Guest,NULL,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3 GTB5 (.NET CLR 3.5.30729)
-4429,3,0,94.21.25.234,1254775991,Guest,NULL,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3 GTB5
-4430,3,0,93.173.243.130,1254776017,kukuy,NULL,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_5_7; en-us) AppleWebKit/530.19.2 (KHTML, like Gecko) Version/4.0.2 Safari/530.19"
+4426,3,0,192.117.102.36,1254775320,ריימונד,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_8; en-us) AppleWebKit/531.9 (KHTML, like Gedko) Vqrsion/4.0.3 Safari/531.9"
+4427,3,0,87.69.49.222,1254775480,Word Up,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-ut) CppleaebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
+4428,3,0,87.68.52.201,1254775760,Guest,NULL,Mozilla/5.0!(Windpwt;1aaaaindows NT 5.1; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3 GTB5 (.NET CLR 3.5.30729)
+4429,3,0,94.21.25.234,1254775991,Guest,NULL,Npzjllc05.0 (Macintosh; U; Intel Mac OS X 10.6; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3 GTB5
+4430,3,0,93.173.243.130,1254776017,kukuy,NULL,"Np|jloc07.0 (Macintosh; U; PPC Mac OS X 10_5_7; en-us) AppleWebKit/530.19.2 (KHTML, like Gecko) Version/4.0.2 Safari/530.19"
 4431,3,0,93.173.57.110,1254776083,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
 4432,3,0,93.173.243.130,1254776152,kukuy,NULL,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_5_7; en-us) AppleWebKit/530.19.2 (KHTML, like Gecko) Version/4.0.2 Safari/530.19"
 4433,3,0,88.128.81.206,1254776188,Guest,NULL,Mozilla/4.0 (compatible; MSIE 4.01; Windows CE; PPC; 240x320)
@@ -4478,11 +4478,11 @@ id,forum_id,admin,user_ip,the_time,logon_name,screen_info,user_browser
 4477,3,0,87.69.12.86,1254781866,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_7; en-us) AppleWebKit/528.16 (KHTML, like Gecko) Version/4.0 Safari/528.16"
 4478,3,0,66.249.67.234,1254781870,Guest,NULL,Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
 4479,3,0,87.69.12.86,1254782015,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_7; en-us) AppleWebKit/528.16 (KHTML, like Gecko) Version/4.0 Safari/528.16"
-4480,3,0,66.249.67.234,1254782149,Guest,NULL,Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
-4481,3,0,67.195.111.154,1254782322,Guest,NULL,Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)
-4482,3,0,66.249.67.234,1254782341,Guest,NULL,Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
-4483,3,0,199.203.183.19,1254782351,Guest,NULL,Mozilla/bintellibot
-4484,3,0,66.249.67.234,1254782436,Guest,NULL,Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+4480?,3,0,66.249.67.234,1254782149,Guest,NULL,Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+4481,3,0,67.195.111.154,1254782322,Guest, ,Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)
+4482,3,0,66.249.67.234,2264882442,Guest,NULL,Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+4483,3,0,199.203.183.19??????????,1254782351,Guest,NULL,Mozilla/bintellibot
+4484,3,0,66.249.67.4A?,1254782436,Guest,NULL,Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
 4485,3,0,66.249.67.234,1254782486,Guest,NULL,Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
 4486,3,0,195.88.33.80,1254782691,Guest,NULL,Opera/9.01 (Windows NT 5.1; U; en)
 4487,3,0,66.249.67.234,1254782906,Guest,NULL,Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
@@ -4539,10 +4539,10 @@ id,forum_id,admin,user_ip,the_time,logon_name,screen_info,user_browser
 4538,3,0,66.249.67.234,1254806559,Guest,NULL,Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
 4539,3,0,84.108.168.184,1254806829,Guest,NULL,Opera/9.64 (Macintosh; Intel Mac OS X; U; en) Presto/2.1.1
 4540,3,0,199.203.52.73,1254807354,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_8; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-4541,3,0,199.203.52.73,1254807401,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_8; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
+4541,3,0,199.209.92.73,1254807401,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_8; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
 4542,3,0,66.249.67.234,1254807419,Guest,NULL,Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
-4543,3,0,199.203.52.73,1254807427,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_8; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-4544,3,0,199.203.52.73,1254807464,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_8; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
+4543,3,0X,1AAAAAAAAA.73,1254807427,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_8; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
+4544,3,0,199.203.52.73,1254807464,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_8; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Tafm}y19qyyy"
 4545,3,0,199.203.52.73,1254807553,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_8; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
 4546,3,0,199.203.183.22,1254807670,Guest,NULL,Mozilla/bintellibot
 4547,3,0,67.195.111.154,1254807935,Guest,NULL,Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)
@@ -4591,11 +4591,11 @@ id,forum_id,admin,user_ip,the_time,logon_name,screen_info,user_browser
 4590,3,0,74.86.115.194,1254819323,Guest,NULL,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; WOW64; Trident/4.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; .NET CLR 3.5.30729; .NET CLR 3.0.30618)
 4591,3,0,77.125.76.209,1254819638,קילגור,NULL,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.9) Gecko/2009040821 Firefox/3.0.9 (.NET CLR 3.5.30729)
 4592,3,0,85.250.228.232,1254819701,גוש,NULL,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_5_8; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-4593,3,0,192.117.102.36,1254819822,ריימונד,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_8; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-4594,3,0,199.203.183.21,1254820243,Guest,NULL,Mozilla/bintellibot
-4595,3,0,212.150.121.26,1254820449,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-4596,3,0,81.218.153.66,1254820519,Guest,NULL,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
-4597,3,0,84.229.220.190,1254820918,Guest,NULL,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3 (.NET CLR 3.5.30729)
+4593,3,0,192.117.102.36,1254819822,ריימונד,NULL,"Mqziqlq15.0 (Macintosh; U; Intel Mac OS X 10_5_8; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
+88:4,3,0,199.203.183.21,1254820243,Guest,NULL,Mozilla/bintellibot
+4595,3,0,212.150.121.26,1254820449,Guest,NULL,"Mozilla/5.0 (Macintoth; [;%Inyel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
+4596,3,0,81.218.153.66,1254820519,Guest,NULL,Mozilla/5.0 )Winiows; U; Windows NT 5.1; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
+4597,3,0,84.229.220.190,1254820918,Guest,NULL,Mozilla/5.
 4598,3,0,66.249.67.234,1254821053,Guest,NULL,Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
 4599,3,0,79.176.188.92,1254821091,Guest,NULL,Mozilla/5.0 (Windows; U; Windows NT 5.1; he; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3 FBSMTWB
 4600,3,0,199.203.183.22,1254822096,Guest,NULL,Mozilla/bintellibot
@@ -4612,7 +4612,7 @@ id,forum_id,admin,user_ip,the_time,logon_name,screen_info,user_browser
 4611,3,0,82.81.174.163,1254824414,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
 4612,3,0,212.29.214.138,1254824584,Guest,NULL,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
 4613,3,0,199.203.183.19,1254825603,Guest,NULL,Mozilla/bintellibot
-4614,3,0,192.118.10.10,1254826358,Guest,NULL,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; InfoPath.2)
+4614,3,0,192.118.10.10,\xc2\xc2\xc2\x84\xe1\xc2\xc2\xc2\x84\x84???,Guest, 9,Mozilla/4.0 (compati?ppH0`````???????????????????????????????????????????????????????????????????????
 4615,3,0,80.230.49.100,1254826844,Guest,NULL,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3 GTB5 (.NET CLR 3.5.30729)
 4616,3,0,80.230.49.100,1254826866,Guest,NULL,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3 GTB5 (.NET CLR 3.5.30729)
 4617,3,0,77.125.243.24,1254827092,Guest,NULL,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; InfoPath.2)
@@ -5241,367 +5241,22 @@ id,forum_id,admin,user_ip,the_time,logon_name,screen_info,user_browser
 5240,3,0,199.203.183.21,1254950045,Guest,NULL,Mozilla/bintellibot
 5241,3,0,87.69.12.86,1254950210,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_7; en-us) AppleWebKit/528.16 (KHTML, like Gecko) Version/4.0 Safari/528.16"
 5242,3,0,94.43.137.176,1254950491,Guest,NULL,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3 FirePHP/0.3
-5243,3,0,87.69.49.222,1254950663,Word Up,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5244,3,0,93.172.214.242,1254950836,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_8; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5245,3,0,84.108.168.184,1254951334,Guest,NULL,Opera/9.64 (Macintosh; Intel Mac OS X; U; en) Presto/2.1.1
-5246,3,0,66.249.67.234,1254951601,Guest,NULL,Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
-5247,3,0,199.203.183.20,1254951858,Guest,NULL,Mozilla/bintellibot
-5248,3,0,89.138.43.61,1254951946,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5249,3,0,84.229.220.190,1254952024,Guest,NULL,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
-5250,3,0,77.126.222.214,1254952330,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5251,3,0,69.204.230.122,1254952447,shai,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5252,3,0,69.204.230.122,1254952616,shai,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5253,3,0,84.228.125.182,1254952734,Guest,NULL,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
-5254,3,0,84.108.77.11,1254953115,Guest,NULL,"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/3.0.195.25 Safari/532.0"
-5255,3,0,77.125.133.29,1254953201,Guest,NULL,Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.1.4pre) Gecko/20090930 Ubuntu/9.04 (jaunty) Shiretoko/3.5.4pre
-5256,3,0,84.108.77.11,1254953391,Guest,NULL,"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/3.0.195.25 Safari/532.0"
-5257,3,0,66.249.67.234,1254953392,Guest,NULL,Mediapartners-Google
-5258,3,0,94.21.75.28,1254953450,גזים,NULL,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3 GTB5
-5259,3,0,84.108.77.11,1254953520,Guest,NULL,"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/3.0.195.25 Safari/532.0"
-5260,3,0,199.203.183.20,1254953663,Guest,NULL,Mozilla/bintellibot
-5261,3,0,84.108.77.11,1254953714,Guest,NULL,"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/3.0.195.25 Safari/532.0"
-5262,3,0,84.108.77.11,1254953827,Guest,NULL,"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/3.0.195.25 Safari/532.0"
-5263,3,0,77.127.177.143,1254954154,Guest,NULL,Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10.4; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
-5264,3,0,77.127.177.143,1254954353,cohenelad,NULL,Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10.4; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
-5265,3,0,79.177.11.87,1254954615,Guest,NULL,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727)
-5266,3,0,79.177.11.87,1254954746,Guest,NULL,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727)
-5267,3,0,76.214.23.210,1254955069,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5268,3,0,77.126.108.51,1254955138,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_8; he-il) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5269,3,0,66.249.67.234,1254955145,Guest,NULL,Mediapartners-Google
-5270,3,0,147.236.32.244,1254955152,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5271,3,0,77.126.108.51,1254955260,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_8; he-il) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5272,3,0,69.204.230.122,1254955322,shai,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5273,3,0,199.203.183.19,1254955458,Guest,NULL,Mozilla/bintellibot
-5274,3,0,79.182.116.33,1254955711,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5275,3,0,94.159.132.135,1254955878,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5276,3,0,74.76.246.164,1254955932,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5277,3,0,84.108.229.199,1254956070,Guest,NULL,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3 (.NET CLR 3.5.30729)
-5278,3,0,95.35.51.69,1254956071,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_8; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5279,3,0,66.249.67.234,1254956094,Guest,NULL,Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
-5280,3,0,77.126.108.51,1254956196,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_8; he-il) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5281,3,0,84.229.177.130,1254956218,Guest,NULL,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.2; .NET CLR 1.1.4322; OfficeLiveConnector.1.4; OfficeLivePatch.1.3; FDM; Tablet PC 2.0)
-5282,3,0,84.108.168.184,1254956260,Guest,NULL,Opera/9.64 (Macintosh; Intel Mac OS X; U; en) Presto/2.1.1
-5283,3,0,66.249.67.234,1254956260,Guest,NULL,Mediapartners-Google
-5284,3,0,84.229.177.130,1254956310,Guest,NULL,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.2; .NET CLR 1.1.4322; OfficeLiveConnector.1.4; OfficeLivePatch.1.3; FDM; Tablet PC 2.0)
-5285,3,0,84.229.177.130,1254956334,Guest,NULL,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.2; .NET CLR 1.1.4322; OfficeLiveConnector.1.4; OfficeLivePatch.1.3; FDM; Tablet PC 2.0)
-5286,3,0,74.76.246.164,1254956459,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5287,3,0,87.69.154.4,1254956585,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_8; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5288,3,0,199.203.183.21,1254957259,Guest,NULL,Mozilla/bintellibot
-5289,3,0,87.69.49.222,1254957308,Word Up,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5290,3,0,89.138.46.100,1254957856,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_8; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5291,3,0,84.228.125.182,1254958381,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5292,3,0,66.249.67.234,1254958486,Guest,NULL,Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
-5293,3,0,66.249.67.234,1254958678,Guest,NULL,Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
-5294,3,0,66.249.67.234,1254958774,Guest,NULL,Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
-5295,3,0,66.249.67.234,1254958866,Guest,NULL,Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
-5296,3,0,89.139.31.107,1254958876,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5297,3,0,66.249.67.234,1254959061,Guest,NULL,Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
-5298,3,0,199.203.183.17,1254959066,Guest,NULL,Mozilla/bintellibot
-5299,3,0,193.219.207.98,1254959117,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5300,3,0,66.249.67.234,1254959158,Guest,NULL,Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
-5301,3,0,89.139.31.107,1254959260,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5302,3,0,89.41.71.18,1254959334,Guest,NULL,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; MRA 4.6 (build 01425))
-5303,3,0,66.249.67.234,1254959349,Guest,NULL,Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
-5304,3,0,208.80.193.29,1254959409,Guest,NULL,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; YPC 3.2.0; SV1; .NET CLR 1.1.4322; SpamBlockerUtility 4.8.4; ZangoToolbar 4.8.3)
-5305,3,0,89.138.6.83,1254959438,Guest,NULL,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; WOW64; GTB5; FBSMTWB; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.5.30729; .NET CLR 3.0.30618)
-5306,3,0,66.249.67.234,1254959556,Guest,NULL,Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
-5307,3,0,66.249.67.234,1254960308,Guest,NULL,Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
-5308,3,0,87.69.12.86,1254960597,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_7; en-us) AppleWebKit/528.16 (KHTML, like Gecko) Version/4 Public Beta Safari/528.16"
-5309,3,0,199.203.183.22,1254960865,Guest,NULL,Mozilla/bintellibot
-5310,3,0,93.172.252.158,1254961133,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_8; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5311,3,0,69.204.230.122,1254961860,shai,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5312,3,0,93.172.154.108,1254962473,castroman,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5313,3,0,69.204.230.122,1254962564,shai,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5314,3,0,199.203.183.21,1254962674,Guest,NULL,Mozilla/bintellibot
-5315,3,0,89.139.59.158,1254963219,Guest,NULL,Mozilla/5.0 (Windows; U; Windows NT 5.1; he; rv:1.9.0.14) Gecko/2009082707 Firefox/3.0.14
-5316,3,0,72.30.79.90,1254963317,Guest,NULL,Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)
-5317,3,0,76.214.7.231,1254963381,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5318,3,0,66.249.67.234,1254963515,Guest,NULL,Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
-5319,3,0,79.177.110.48,1254963936,Guest,NULL,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727)
-5320,3,0,66.249.67.234,1254964101,Guest,NULL,Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
-5321,3,0,69.204.230.122,1254964326,shai,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5322,3,0,93.173.57.110,1254964597,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5323,3,0,199.203.183.19,1254964607,Guest,NULL,Mozilla/bintellibot
-5324,3,0,87.69.182.235,1254965154,Guest,NULL,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.5.30729; .NET CLR 3.0.30618)
-5325,3,0,199.203.183.22,1254966294,Guest,NULL,Mozilla/bintellibot
-5326,3,0,66.249.67.234,1254967807,Guest,NULL,Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
-5327,3,0,199.203.183.19,1254968096,Guest,NULL,Mozilla/bintellibot
-5328,3,0,24.215.167.252,1254968219,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5329,3,0,69.204.230.122,1254968746,shai,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5330,3,0,74.101.247.96,1254969181,Guest,NULL,Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
-5331,3,0,74.101.247.96,1254969373,Guest,NULL,Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
-5332,3,0,199.203.183.22,1254969897,Guest,NULL,Mozilla/bintellibot
-5333,3,0,66.249.67.234,1254971518,Guest,NULL,Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
-5334,3,0,199.203.183.22,1254971699,Guest,NULL,Mozilla/bintellibot
-5335,3,0,67.195.111.154,1254972971,Guest,NULL,Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)
-5336,3,0,199.203.183.17,1254973507,Guest,NULL,Mozilla/bintellibot
-5337,3,0,79.177.110.136,1254973781,Guest,NULL,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727)
-5338,3,0,190.162.61.43,1254974487,Guest,NULL,"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/3.0.195.25 Safari/532.0"
-5339,3,0,76.214.30.94,1254974507,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5340,3,0,66.249.67.234,1254975111,Guest,NULL,Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
-5341,3,0,199.203.183.25,1254975324,Guest,NULL,Mozilla/bintellibot
-5342,3,0,72.30.79.90,1254975941,Guest,NULL,Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)
-5343,3,0,174.129.173.128,1254976907,Guest,NULL,Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
-5344,3,0,199.203.183.22,1254977116,Guest,NULL,Mozilla/bintellibot
-5345,3,0,79.178.18.214,1254977392,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5346,3,0,66.249.67.234,1254977393,Guest,NULL,Mediapartners-Google
-5347,3,0,93.173.57.110,1254978335,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5348,3,0,147.236.32.244,1254978535,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5349,3,0,88.79.237.15,1254978649,Guest,NULL,"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/3.0.195.25 Safari/532.0"
-5350,3,0,66.249.67.234,1254978765,Guest,NULL,Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
-5351,3,0,199.203.183.17,1254978910,Guest,NULL,Mozilla/bintellibot
-5352,3,0,91.7.102.78,1254980053,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_8; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5353,3,0,76.214.20.13,1254980441,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5354,3,0,199.203.183.25,1254980718,Guest,NULL,Mozilla/bintellibot
-5355,3,0,199.203.52.73,1254981454,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_8; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5356,3,0,88.171.38.64,1254981554,Guest,NULL,"Mozilla/5.0 (iPhone; U; CPU iPhone OS 3_1 like Mac OS X; he-il) AppleWebKit/528.18 (KHTML, like Gecko) Version/4.0 Mobile/7C144 Safari/528.16"
-5357,3,0,66.249.67.234,1254981556,Guest,NULL,Mediapartners-Google
-5358,3,0,88.171.38.64,1254981578,Guest,NULL,"Mozilla/5.0 (iPhone; U; CPU iPhone OS 3_1 like Mac OS X; he-il) AppleWebKit/528.18 (KHTML, like Gecko) Version/4.0 Mobile/7C144 Safari/528.16"
-5359,3,0,66.249.67.234,1254981585,Guest,NULL,Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
-5360,3,0,95.86.88.77,1254981629,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_8; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5361,3,0,199.203.183.25,1254982516,Guest,NULL,Mozilla/bintellibot
-5362,3,0,192.117.102.36,1254983014,ריימונד,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_8; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5363,3,0,93.173.57.110,1254983245,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5364,3,0,91.214.44.182,1254983865,Guest,NULL,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322) NS8/0.9.6
-5365,3,0,199.203.183.22,1254984325,Guest,NULL,Mozilla/bintellibot
-5366,3,0,89.138.43.61,1254985114,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5367,3,0,199.203.183.19,1254986246,Guest,NULL,Mozilla/bintellibot
-5368,3,0,94.159.171.210,1254986509,Guest,NULL,"Mozilla/5.0 (iPhone; U; CPU iPhone OS 3_0 like Mac OS X; he-il) AppleWebKit/528.18 (KHTML, like Gecko) Version/4.0 Mobile/7A341 Safari/528.16"
-5369,3,0,84.111.1.0,1254986639,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5370,3,0,213.8.130.217,1254986723,Guest,NULL,"Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/3.0.195.25 Safari/532.0"
-5371,3,0,91.135.102.193,1254986939,Guest,NULL,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB6; InfoPath.2; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
-5372,3,0,195.33.131.11,1254986980,Guest,NULL,"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/3.0.195.25 Safari/532.0"
-5373,3,0,194.90.126.1,1254987263,Guest,NULL,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727)
-5374,3,0,66.249.67.234,1254987402,Guest,NULL,Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
-5375,3,0,82.81.12.56,1254987442,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_8; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5376,3,0,62.219.112.154,1254987737,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5377,3,0,199.203.183.22,1254987951,Guest,NULL,Mozilla/bintellibot
-5378,3,0,84.229.147.247,1254988085,קילגור,NULL,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.9) Gecko/2009040821 Firefox/3.0.9 (.NET CLR 3.5.30729)
-5379,3,0,79.182.116.33,1254989495,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5380,3,0,199.203.183.25,1254989730,Guest,NULL,Mozilla/bintellibot
-5381,3,0,80.179.116.34,1254989822,Guest,NULL,Mozilla/5.0 (Windows; U; Windows NT 5.1; he; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3 (.NET CLR 3.5.30729)
-5382,3,0,80.179.116.34,1254989830,Guest,NULL,Mozilla/5.0 (Windows; U; Windows NT 5.1; he; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3 (.NET CLR 3.5.30729)
-5383,3,0,199.203.52.73,1254990196,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_8; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5384,3,0,77.125.166.233,1254990291,Guest,NULL,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; GTB6; SLCC1; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 3.5.30729; OfficeLiveConnector.1.3; OfficeLivePatch.0.0; .NET CLR 3.0.30729)
-5385,3,0,93.172.147.17,1254990319,Guest,NULL,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.14) Gecko/2009082707 Firefox/3.0.14
-5386,3,0,217.132.88.244,1254990970,Guest,NULL,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)
-5387,3,0,84.228.75.247,1254991293,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5388,3,0,199.203.183.25,1254991558,Guest,NULL,Mozilla/bintellibot
-5389,3,0,66.249.67.234,1254992415,Guest,NULL,Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
-5390,3,0,93.173.57.110,1254992572,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5391,3,0,62.219.112.154,1254992738,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5392,3,0,67.220.215.2,1254992770,Guest,NULL,Mozilla/4.0 (vBSEO; http://www.vbseo.com)
-5393,3,0,199.203.52.73,1254992840,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/532.2+ (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5394,3,0,84.109.208.191,1254992872,Guest,NULL,"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/3.0.195.25 Safari/532.0"
-5395,3,0,84.109.208.191,1254992886,Guest,NULL,"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/3.0.195.25 Safari/532.0"
-5396,3,0,84.109.208.191,1254992928,Guest,NULL,"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/3.0.195.25 Safari/532.0"
-5397,3,0,192.117.102.36,1254993286,ריימונד,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_8; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5398,3,0,199.203.183.19,1254993447,Guest,NULL,Mozilla/bintellibot
-5399,3,0,192.117.127.226,1254993779,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_6; en-us) AppleWebKit/525.18.1 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1"
-5400,3,0,84.108.158.235,1254994033,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5401,3,0,93.173.57.110,1254994386,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5402,3,0,77.126.107.93,1254994408,Guest,NULL,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB6; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
-5403,3,0,93.173.57.110,1254994437,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5404,3,0,93.173.57.110,1254994510,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5405,3,0,93.173.57.110,1254994633,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5406,3,0,192.117.102.36,1254994770,ריימונד,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_8; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5407,3,0,195.189.193.1,1254994843,hilae,NULL,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; SIMBAR Enabled; SIMBAR={61848FA3-C23F-444f-97A0-DF56ADFCC108}; GTB6; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022; InfoPath.2)
-5408,3,0,77.126.20.98,1254994977,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5409,3,0,199.203.183.25,1254995236,Guest,NULL,Mozilla/bintellibot
-5410,3,0,89.138.118.244,1254995237,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_8; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5411,3,0,85.250.248.42,1254995887,ToMa7,NULL,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
-5412,3,0,66.249.67.234,1254995909,Guest,NULL,Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
-5413,3,0,93.173.57.110,1254996546,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5414,3,0,93.173.57.110,1254996559,Ayala,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5415,3,0,84.108.77.11,1254996764,Guest,NULL,"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/3.0.195.25 Safari/532.0"
-5416,3,0,93.173.57.110,1254996869,Ayala,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5417,3,0,199.203.183.17,1254997020,Guest,NULL,Mozilla/bintellibot
-5418,3,0,213.16.178.135,1254997039,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_8; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5419,3,0,93.173.57.110,1254997416,Ayala,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5420,3,0,84.228.75.247,1254997486,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5421,3,0,93.173.57.110,1254997922,Ayala,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5422,3,0,93.173.57.110,1254998232,Ayala,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5423,3,0,84.108.158.235,1254998252,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5424,3,0,93.173.57.110,1254998268,Ayala,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5425,3,0,67.195.111.154,1254998409,Guest,NULL,Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)
-5426,3,0,199.203.183.19,1254998768,Guest,NULL,Mozilla/bintellibot
-5427,3,0,93.173.57.110,1254999164,Ayala,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5428,3,0,66.249.67.234,1254999465,Guest,NULL,Mediapartners-Google
-5429,3,0,94.230.81.246,1254999466,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5430,3,0,199.203.52.73,1254999539,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/532.2+ (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5431,3,0,87.69.49.222,1254999731,Word Up,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5432,3,0,77.125.133.29,1254999732,Guest,NULL,Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.1.4pre) Gecko/20090930 Ubuntu/9.04 (jaunty) Shiretoko/3.5.4pre
-5433,3,0,66.249.67.234,1254999793,Guest,NULL,Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
-5434,3,0,89.138.118.244,1254999843,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_8; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5435,3,0,84.108.168.184,1254999848,Guest,NULL,Opera/9.64 (Macintosh; Intel Mac OS X; U; en) Presto/2.1.1
-5436,3,0,79.182.116.33,1255000043,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5437,3,0,62.219.112.154,1255000125,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5438,3,0,77.127.72.159,1255000438,Guest,NULL,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; msn OptimizedIE8;HEIL)
-5439,3,0,199.203.183.19,1255000640,Guest,NULL,Mozilla/bintellibot
-5440,3,0,77.127.191.234,1255001707,Guest,NULL,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
-5441,3,0,199.203.183.22,1255002443,Guest,NULL,Mozilla/bintellibot
-5442,3,0,84.228.75.247,1255002477,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5443,3,0,93.173.57.110,1255002512,Ayala,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5444,3,0,85.250.128.218,1255002641,Guest,NULL,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 1.1.4322; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
-5445,3,0,66.249.67.234,1255002762,Guest,NULL,Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
-5446,3,0,84.229.220.190,1255003135,Guest,NULL,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
-5447,3,0,93.173.57.110,1255003279,Ayala,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5448,3,0,74.76.246.164,1255003630,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5449,3,0,88.79.237.15,1255003638,Guest,NULL,"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/3.0.195.25 Safari/532.0"
-5450,3,0,89.138.186.49,1255003671,Guest,NULL,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.4; he; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
-5451,3,0,69.204.230.122,1255003959,shai,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5452,3,0,82.81.56.158,1255004254,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5453,3,0,199.203.183.22,1255004277,Guest,NULL,Mozilla/bintellibot
-5454,3,0,89.139.185.49,1255004317,Guest,NULL,"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/3.0.195.24 Safari/532.0"
-5455,3,0,93.173.57.110,1255004554,Ayala,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5456,3,0,212.143.128.49,1255004924,Guest,NULL,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1)
-5457,3,0,93.173.57.110,1255005612,Ayala,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5458,3,0,93.173.57.110,1255005946,Ayala,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5459,3,0,199.203.183.21,1255005971,Guest,NULL,Mozilla/bintellibot
-5460,3,0,84.229.24.230,1255006137,Guest,NULL,Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10.5; en-GB; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
-5461,3,0,84.229.24.230,1255006190,Guest,NULL,"Mozilla/5.0 (iPhone; U; CPU iPhone OS 3_0 like Mac OS X; en-us) AppleWebKit/528.18 (KHTML, like Gecko) Version/4.0 Mobile/7A341 Safari/528.16"
-5462,3,0,95.35.79.73,1255006268,Guest,NULL,Mozilla/5.0 (Windows; U; Windows NT 5.1; he; rv:1.9.0.11) Gecko/2009060215 Firefox/3.0.11
-5463,3,0,87.69.12.86,1255006317,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_7; en-us) AppleWebKit/528.16 (KHTML, like Gecko) Version/4 Public Beta Safari/528.16"
-5464,3,0,87.69.49.222,1255007113,Word Up,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5465,3,0,66.249.67.234,1255007128,Guest,NULL,Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
-5466,3,0,89.138.186.119,1255007271,Guest,NULL,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.5.30729)
-5467,3,0,66.249.67.234,1255007275,Guest,NULL,Mediapartners-Google
-5468,3,0,192.116.59.162,1255007522,Guest,NULL,"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/3.0.195.25 Safari/532.0"
-5469,3,0,80.178.114.114,1255007639,Guest,NULL,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
-5470,3,0,89.138.118.244,1255007844,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_8; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5471,3,0,199.203.183.22,1255007926,Guest,NULL,Mozilla/bintellibot
-5472,3,0,89.139.40.130,1255008054,Guest,NULL,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; InfoPath.2; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
-5473,3,0,66.249.67.234,1255008055,Guest,NULL,Mediapartners-Google
-5474,3,0,93.172.50.191,1255008243,Guest,NULL,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)
-5475,3,0,66.249.67.234,1255008246,Guest,NULL,Mediapartners-Google
-5476,3,0,82.81.56.158,1255008340,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5477,3,0,77.127.66.37,1255008362,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_5; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1"
-5478,3,0,84.228.75.247,1255008796,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5479,3,0,85.64.24.242,1255009228,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5480,3,0,87.69.12.86,1255009382,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_7; en-us) AppleWebKit/528.16 (KHTML, like Gecko) Version/4.0 Safari/528.16"
-5481,3,0,79.182.66.159,1255009544,Guest,NULL,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET CLR 1.1.4322)
-5482,3,0,67.244.122.144,1255009567,Guest,NULL,"Mozilla/5.0 (iPhone; U; CPU iPhone OS 3_1 like Mac OS X; he-il) AppleWebKit/528.18 (KHTML, like Gecko) Version/4.0 Mobile/7C144 Safari/528.16"
-5483,3,0,212.199.9.145,1255009623,Guest,NULL,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_5_8; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5484,3,0,199.203.183.19,1255009640,Guest,NULL,Mozilla/bintellibot
-5485,3,0,84.108.158.235,1255009732,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5486,3,0,79.182.66.159,1255009786,Guest,NULL,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET CLR 1.1.4322)
-5487,3,0,212.199.9.145,1255009956,Guest,NULL,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_5_8; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5488,3,0,66.249.67.234,1255010834,Guest,NULL,Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
-5489,3,0,93.172.81.139,1255011250,Guest,NULL,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 3.5.21022; InfoPath.2; .NET CLR 3.5.30729; .NET CLR 3.0.30618)
-5490,3,0,94.43.137.176,1255011296,Guest,NULL,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3 FirePHP/0.3
-5491,3,0,199.203.183.22,1255011434,Guest,NULL,Mozilla/bintellibot
-5492,3,0,87.69.49.222,1255011575,Word Up,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5493,3,0,192.117.127.226,1255011841,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_6; en-us) AppleWebKit/525.18.1 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1"
-5494,3,0,72.225.206.211,1255011949,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_8; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5495,3,0,93.173.57.110,1255012116,Ayala,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5496,3,0,84.108.158.235,1255012169,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5497,3,0,194.8.75.52,1255012604,Guest,NULL,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
-5498,3,0,84.228.75.247,1255012753,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5499,3,0,80.74.101.16,1255012911,Guest,NULL,Mozilla/5.0 (Windows; U; Windows NT 6.0; he; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3 (.NET CLR 3.5.30729)
-5500,3,0,66.249.67.234,1255012913,Guest,NULL,Mediapartners-Google
-5501,3,0,81.208.92.10,1255013030,מתפזרת,NULL,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
-5502,3,0,94.230.81.246,1255013250,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5503,3,0,199.203.183.25,1255013346,Guest,NULL,Mozilla/bintellibot
-5504,3,0,82.81.12.56,1255013617,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_8; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5505,3,0,93.173.57.110,1255013645,Ayala,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5506,3,0,93.173.57.110,1255013675,Ayala,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5507,3,0,69.204.230.122,1255013716,shai,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5508,3,0,66.249.67.234,1255014445,Guest,NULL,Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
-5509,3,0,69.204.230.122,1255014563,shai,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5510,3,0,69.204.230.122,1255014623,shai,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5511,3,0,69.204.230.122,1255014630,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5512,3,0,199.203.183.19,1255015067,Guest,NULL,Mozilla/bintellibot
-5513,3,0,87.69.103.82,1255015191,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5514,3,0,194.8.75.40,1255015302,Guest,NULL,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; MyIE2; Deepnet Explorer)
-5515,3,0,89.138.118.244,1255015319,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_8; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5516,3,0,76.214.15.144,1255015360,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5517,3,0,85.250.248.42,1255015764,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5518,3,0,93.173.157.96,1255016127,Guest,NULL,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
-5519,3,0,84.108.168.184,1255016193,Guest,NULL,Opera/9.64 (Macintosh; Intel Mac OS X; U; en) Presto/2.1.1
-5520,3,0,80.178.114.114,1255016233,Guest,NULL,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
-5521,3,0,72.225.206.211,1255016339,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_8; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5522,3,0,199.203.183.20,1255016834,Guest,NULL,Mozilla/bintellibot
-5523,3,0,84.110.219.211,1255016994,Guest,NULL,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.9.0.14) Gecko/2009082707 Firefox/3.0.14 GTB5
-5524,3,0,85.250.144.90,1255017038,Guest,NULL,"Mozilla/5.0 (iPod; U; CPU iPhone OS 2_2_1 like Mac OS X; en-us) AppleWebKit/525.18.1 (KHTML, like Gecko) Version/3.1.1 Mobile/5H11a Safari/525.20"
-5525,3,0,66.249.67.234,1255017163,Guest,NULL,Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
-5526,3,0,87.68.16.23,1255017180,Guest,NULL,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; Crazy Browser 3.0.0 RC1)
-5527,3,0,69.204.230.122,1255017359,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5528,3,0,85.230.127.66,1255017445,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5529,3,0,93.173.57.110,1255017880,Ayala,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5530,3,0,95.35.223.128,1255018185,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_8; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5531,3,0,81.218.128.218,1255018325,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_8; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5532,3,0,84.109.165.228,1255018428,M-M,NULL,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
-5533,3,0,84.109.165.228,1255018490,M-M,NULL,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
-5534,3,0,94.21.93.45,1255018507,Guest,NULL,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3 GTB5
-5535,3,0,93.172.20.177,1255018513,Guest,NULL,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB5; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
-5536,3,0,94.21.93.45,1255018519,גזים,NULL,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3 GTB5
-5537,3,0,94.21.93.45,1255018536,גזים,NULL,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3 GTB5
-5538,3,0,84.109.165.228,1255018542,M-M,NULL,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
-5539,3,0,94.21.93.45,1255018561,גזים,NULL,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3 GTB5
-5540,3,0,199.203.183.22,1255018657,Guest,NULL,Mozilla/bintellibot
-5541,3,0,76.214.15.144,1255019105,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5542,3,0,87.69.49.222,1255019242,Word Up,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5543,3,0,82.102.155.74,1255019328,Guest,NULL,"Mozilla/5.0 (iPhone; U; CPU iPhone OS 3_0 like Mac OS X; he-il) AppleWebKit/528.18 (KHTML, like Gecko) Version/4.0 Mobile/7A341 Safari/528.16"
-5544,3,0,15.195.201.89,1255019375,Guest,NULL,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
-5545,3,0,192.117.102.36,1255019391,ריימונד,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_8; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5546,3,0,84.228.75.247,1255019449,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5547,3,0,93.172.93.92,1255019525,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_8; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5548,3,0,94.43.137.176,1255019600,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5549,3,0,192.116.59.162,1255019649,Guest,NULL,"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/3.0.195.25 Safari/532.0"
-5550,3,0,192.117.127.226,1255019730,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_6; en-us) AppleWebKit/525.18.1 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1"
-5551,3,0,94.21.93.45,1255019740,גזים,NULL,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3 GTB5
-5552,3,0,80.178.114.114,1255019794,Guest,NULL,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
-5553,3,0,93.173.252.202,1255019833,Guest,NULL,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1)
-5554,3,0,199.203.183.19,1255020509,Guest,NULL,Mozilla/bintellibot
-5555,3,0,82.81.130.167,1255020710,Guest,NULL,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; GTB6; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
-5556,3,0,82.81.130.167,1255020795,Guest,NULL,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; GTB6; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
-5557,3,0,82.81.130.167,1255020803,Guest,NULL,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; GTB6; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
-5558,3,0,79.183.19.236,1255020982,Guest,NULL,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322)
-5559,3,0,85.230.127.66,1255021338,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5560,3,0,67.195.111.154,1255021555,Guest,NULL,Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)
-5561,3,0,66.249.67.234,1255021712,Guest,NULL,Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
-5562,3,0,84.229.204.24,1255022137,Guest,NULL,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; GTB0; .NET CLR 1.0.3705; .NET CLR 1.1.4322; Media Center PC 4.0; .NET CLR 2.0.50727; InfoPath.1; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
-5563,3,0,94.21.93.45,1255022203,גזים,NULL,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3 GTB5
-5564,3,0,199.203.183.19,1255022266,Guest,NULL,Mozilla/bintellibot
-5565,3,0,212.150.121.26,1255022397,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5566,3,0,93.172.18.255,1255022477,Guest,NULL,Mozilla/5.0 (Windows; U; Windows NT 5.1; he; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
-5567,3,0,84.108.158.235,1255022744,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5568,3,0,71.249.233.31,1255022937,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_8; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5569,3,0,79.179.41.22,1255022944,Guest,NULL,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.2; OfficeLiveConnector.1.3; OfficeLivePatch.0.0)
-5570,3,0,79.179.41.22,1255023075,Guest,NULL,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.2; OfficeLiveConnector.1.3; OfficeLivePatch.0.0)
-5571,3,0,84.108.158.235,1255023131,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5572,3,0,87.69.49.222,1255023239,Word Up,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5573,3,0,12.38.132.137,1255023377,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9 FOH:r250"
-5574,3,0,94.230.81.246,1255023517,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5575,3,0,93.173.57.110,1255023585,Ayala,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5576,3,0,12.38.132.137,1255023853,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9 FOH:r250"
-5577,3,0,199.203.183.22,1255024045,Guest,NULL,Mozilla/bintellibot
-5578,3,0,89.138.244.99,1255024046,Guest,NULL,"Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/3.0.195.25 Safari/532.0"
-5579,3,0,69.238.212.41,1255024399,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; he-il) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5580,3,0,93.173.149.211,1255024466,Guest,NULL,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_5_8; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5581,3,0,69.238.212.41,1255024469,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; he-il) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5582,3,0,66.249.67.234,1255024473,Guest,NULL,Mediapartners-Google
-5583,3,0,69.238.212.41,1255024507,I_DO1,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; he-il) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5584,3,0,66.249.67.234,1255024560,Guest,NULL,Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
-5585,3,0,93.173.149.211,1255024695,Guest,NULL,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_5_8; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5586,3,0,79.177.208.223,1255024766,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_8; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5587,3,0,69.238.212.41,1255024936,I_DO1,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; he-il) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5588,3,0,85.230.127.66,1255025084,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5589,3,0,94.159.235.218,1255025198,Guest,NULL,"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/3.0.195.25 Safari/532.0"
-5590,3,0,77.127.8.95,1255025376,macjoe,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_8; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5591,3,0,77.127.8.95,1255025504,macjoe,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_8; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5592,3,0,77.127.177.143,1255025891,cohenelad,NULL,Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10.4; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
-5593,3,0,193.219.207.98,1255025894,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5594,3,0,199.203.183.19,1255025911,Guest,NULL,Mozilla/bintellibot
-5595,3,0,77.127.177.143,1255025940,cohenelad,NULL,Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10.4; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
-5596,3,0,94.21.27.176,1255026169,Guest,NULL,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3 GTB5
-5597,3,0,84.229.177.130,1255026269,Guest,NULL,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.2; .NET CLR 1.1.4322; OfficeLiveConnector.1.4; OfficeLivePatch.1.3; FDM; Tablet PC 2.0)
-5598,3,0,84.229.177.130,1255026382,Guest,NULL,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.2; .NET CLR 1.1.4322; OfficeLiveConnector.1.4; OfficeLivePatch.1.3; FDM; Tablet PC 2.0)
-5599,3,0,84.229.177.130,1255026485,Guest,NULL,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.2; .NET CLR 1.1.4322; OfficeLiveConnector.1.4; OfficeLivePatch.1.3; FDM; Tablet PC 2.0)
-5600,3,0,94.21.27.176,1255026886,Guest,NULL,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3 GTB5
-5601,3,0,94.21.27.176,1255026891,גזים,NULL,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3 GTB5
-5602,3,0,87.70.162.70,1255026901,Guest,NULL,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.4; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3 GTB5
-5603,3,0,79.177.208.223,1255027066,Guest,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
-5604,3,0,94.21.27.176,1255027106,גזים,NULL,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3 GTB5
-5605,3,0,87.69.49.222,1255027266,Word Up,NULL,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9"
+5243,3,0,87.69.49.222,1254950663,Word Up,NULL,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-us) AppleWebKit/531.9 (KHTML- like Gecko) Version/4.0.3 Safari/531.9
+5244,3,0,<blank>,1254950836,Guest,NULL,Ppzjplh080\x07\xf9\x07\xfd\x07\xf9\x07\xf2\x07\xc7\x07\xcb\x07\xcb\x07\x8f\x07\x97\x07\x8f??????????\xfc^\xf98\xf98\xc5\xe0\xe4\xe0\x17\x80'\x00\x07\xff\x17\x80\x07\xfd`@??????????\xe4\xe0\xc9\xc0\x07\xf9\x07\xf9\x07\xe5\x07\xcb\x07\x97\x07\x97\x01p\x7f`??????????????????????????????????????????????????????????
+<blank>,<blank>,<blank>,<blank>,<blank>,<blank>,<blank>,<blank>
+<blank>,<blank>,<blank>,<blank>,<blank>,<blank>,<blank>,<blank>
+<blank>,<blank>,<blank>,<blank>,<blank>,<blank>,<blank>,<blank>
+<blank>,<blank>,<blank>,<blank>,<blank>,<blank>,<blank>,<blank>
+<blank>,<blank>,<blank>,<blank>,<blank>,<blank>,<blank>,<blank>
+<blank>,<blank>,<blank>,<blank>,<blank>,<blank>,<blank>,<blank>
+<blank>,<blank>,<blank>,<blank>,<blank>,<blank>,<blank>,<blank>
+<blank>,<blank>,<blank>,<blank>,<blank>,<blank>,<blank>,<blank>
+<blank>,<blank>,<blank>,<blank>,<blank>,<blank>,<blank>,<blank>
+<blank>,<blank>,<blank>,<blank>,<blank>,<blank>,<blank>,<blank>
+<blank>,<blank>,<blank>,<blank>,<blank>,<blank>,<blank>,<blank>
+<blank>,<blank>,<blank>,<blank>,<blank>,<blank>,<blank>,<blank>
+<blank>,<blank>,<blank>,<blank>,<blank>,<blank>,<blank>,<blank>
+<blank>,<blank>,<blank>,<blank>,<blank>,<blank>,\x03\xa0\xc0\x00,\t\xf0
+\x07\xf9\x03,<blank>,\xfe\x11,<blank>,<blank>,<blank>,\x07\xe4\xe0,<blank>
+<blank>,<blank>,<blank>,<blank>,<blank>,<blank>,<blank>,<blank>
 
